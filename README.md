@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dev-Dori&show_icons=true&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dev-Dori&show_icons=true&theme=algolia)
 <!--
 **Dev-Dori/Dev-Dori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
